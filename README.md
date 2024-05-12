@@ -21,6 +21,15 @@ The application of artificial intelligence (AI) in guiding multilingual job inte
   <img src='docs/hadith.png' width='auto' height='auto' style='margin-right: 10px'>
 </div>
 
+## Technologies Used
+
+- [Flask](https://flask.palletsprojects.com/)
+- [Langchain](https://www.langchain.com/)
+- [Transformer & Sentence Transformers](https://github.com/UKPLab/sentence-transformers)
+- [Fine-tuned gemma-1.1-2b-it (Text Generation) Model with Multilingual dataset (Indonesian, English)](https://huggingface.co/google/gemma-1.1-2b-it)
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
 ## References
 
 We provide a list of journal articles, conference papers, and other resources that have inspired our project:
