@@ -30,6 +30,19 @@ The application of artificial intelligence (AI) in guiding multilingual job inte
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
+## Promotion Video
+```
+https://www.instagram.com/reel/C63pSIXvWr0/?igsh=MWgxeTAzb2Q3ZzR2NQ==
+```
+
+## Our Team
+- Nada Fadhiilah Balqis (1217050107)
+- Ray Ramadita (1217050117)
+- Reski Firmansyah (1217050119)
+- Silvia Nurrobianti (1217050133)
+
+---
+
 ## References
 
 We provide a list of journal articles, conference papers, and other resources that have inspired our project:
