@@ -43,7 +43,7 @@ https://www.instagram.com/reel/C63pSIXvWr0/?igsh=MWgxeTAzb2Q3ZzR2NQ==
 [Capstone Project Proposal Invisor](https://github.com/RayRama/invisor-machine-learning/blob/main/Capstone%20Project%20Proposal%20Invisor.pdf)
 
 ## Capstone Project Magazine
-[Capstone Project Magazine Invisor]([https://online.publuu.com/505033/1132837](https://heyzine.com/flip-book/4d26bd577d.html)
+[Capstone Project Magazine Invisor](https://heyzine.com/flip-book/4d26bd577d.html)
 
 ## Our Team
 - Nada Fadhiilah Balqis (1217050107)
