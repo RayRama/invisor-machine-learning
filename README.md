@@ -1,6 +1,7 @@
 ![Banner](docs/thumbnail.png)
 
 [![Demo on Web](https://img.shields.io/badge/Demo%20on-Web-blue)](https://smart-interviewer.vercel.app/)
+[![Demo on Youtube](https://img.shields.io/badge/Demo%20on-Youtube-red)](https://youtu.be/0p8mGgm39r8)
 
 [Read Our Paper](https://drive.google.com/file/d/1y0fMH1xH9wfs5VIiYUoYzCFcPwf1HfHq/view?usp=drivesdk)
 
